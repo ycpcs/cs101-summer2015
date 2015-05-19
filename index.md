@@ -16,7 +16,6 @@ All information about the course will be posted here.
 * [Assignments](assign/index.html)
 * [Labs](labs/index.html)
 * [Resources](resources.html)
-* [Tutoring](tutoring.html)
 * [Submitting labs and assignments](submitting.html)
 * [Reference card (PDF)](refcard.pdf)
 * [Practice exams](practice/index.html)
