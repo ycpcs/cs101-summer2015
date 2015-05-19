@@ -1,0 +1,9 @@
+name: ""
+description: ""
+
+url: "http://ycpcs.github.io/cs101-summer2015"
+
+markdown: redcarpet
+redcarpet:
+  extensions: ["no_intra_emphasis", "fenced_code_blocks", "autolink", "tables", "with_toc_data"]
+highlighter: pygments
