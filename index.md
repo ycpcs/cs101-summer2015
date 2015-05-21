@@ -23,4 +23,4 @@ All information about the course will be posted here.
 ## News
 
 * **May 19** - Welcome back!  You should get started by reading [How to succeed in CS 101](success.html).
-* **May 26** - [Assignment 1](assign/assign01.html) is due Monday, Feb 2nd by 11:59 PM.
+* **May 27** - [Assignment 1](assign/assign01.html) is due Wednesday, May 27th by 11:59 PM.
