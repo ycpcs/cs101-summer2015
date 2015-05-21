@@ -3,7 +3,7 @@ layout: default
 title: "Assignment 1: Freefalling"
 ---
 
-Due: TBD
+Due: **Wednesday, May 27 by 11:59 PM**
 
 Getting Started
 ===============
