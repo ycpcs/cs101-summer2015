@@ -19,11 +19,11 @@ and submitting the labs will negatively impact your course grade.
 > Week 2 (May 25-29) | [Lab 6: Checking the Weather](lab06.html) | [CS101\_Lab06.zip](CS101_Lab06.zip)
 > Week 3 (Jun 1-5)   | [Lab 7: For loops](lab07.html) | n/a
 > Week 3 (Jun 1-5)   | [Lab 8: Gone loopy](lab08.html) | [CS101\_Lab08.zip](CS101_Lab08.zip)
+> Week 4 (Jun 8-12)  | [Lab 9: Fancy Rectangle](lab09.html) | [CS101\_Lab09.zip](CS101_Lab09.zip)
+> Week 4 (Jun 8-12)  | [Lab 10: Array Exercises](lab10.html) | n/a
+> Week 4 (Jun 8-12)  | [Lab 11: More Array Exercises](lab11.html) | n/a
 
 <!--
-> Feb 24th | [Lab 9: Fancy Rectangle](lab09.html) | [CS101\_Lab09.zip](CS101_Lab09.zip)
-> Feb 26th | [Lab 10: Array Exercises](lab10.html) | n/a
-> Mar 10th | [Lab 11: More Array Exercises](lab11.html) | n/a
 > Mar 12th  | [Lab 12: Kitten Pictures](lab12.html) | [CS101\_Lab12.zip](CS101_Lab12.zip)
 > Mar 19th | [Lab 13: Right Triangle](lab13.html) | [CS101\_Lab13.zip](CS101_Lab13.zip)
 > Mar 24th  | [Lab 14: Simple Stats](lab14.html) | [CS101\_Lab14.zip](CS101_Lab14.zip)
