@@ -22,6 +22,7 @@ and submitting the labs will negatively impact your course grade.
 > Week 4 (Jun 8-12)  | [Lab 9: Fancy Rectangle](lab09.html) | [CS101\_Lab09.zip](CS101_Lab09.zip)
 > Week 4 (Jun 8-12)  | [Lab 10: Array Exercises](lab10.html) | n/a
 > Week 4 (Jun 8-12)  | [Lab 11: More Array Exercises](lab11.html) | n/a
+> Week 5 (Jun 15-19) | [Lab 12: Kitten Pictures](lab12.html) | [CS101\_Lab12.zip](CS101_Lab12.zip)
 
 <!--
 > Mar 12th  | [Lab 12: Kitten Pictures](lab12.html) | [CS101\_Lab12.zip](CS101_Lab12.zip)

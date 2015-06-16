@@ -26,5 +26,6 @@ All information about the course will be posted here.
 * **May 27** - [Assignment 1](assign/assign01.html) is due Wednesday, May 27th by 11:59 PM.
 * **June 3** - [Assignment 2 - Milestone 1](assign/assign02.html) is due Wednesday, Jun 3rd by 11:59 PM.
 * **June 10** - [Assignment 2 - Milestone 2](assign/assign02.html) is due Wednesday, Jun 10th by 11:59 PM.
+* **June 16** - [Practice exams](practice/index.html) for Exam 1 are posted.
 * **June 24** - [Assignment 3](assign/assign03.html) is due Wednesday, Jun 24th by 11:59 PM.
-* **June 25 - EXAM I**
+* **June 23 - EXAM I**
