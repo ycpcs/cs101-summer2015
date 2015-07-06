@@ -23,9 +23,12 @@ and submitting the labs will negatively impact your course grade.
 > Week 4 (Jun 8-12)  | [Lab 10: Array Exercises](lab10.html) | n/a
 > Week 4 (Jun 8-12)  | [Lab 11: More Array Exercises](lab11.html) | n/a
 > Week 5 (Jun 15-19) | [Lab 12: Kitten Pictures](lab12.html) | [CS101\_Lab12.zip](CS101_Lab12.zip)
+> Week 8 (July 6-10) | [Lab 13: Right Triangle](lab13.html) | [CS101\_Lab13.zip](CS101_Lab13.zip)
+> Week 8 (July 6-10) | [Lab 14: Simple Stats](lab14.html) | [CS101\_Lab14.zip](CS101_Lab14.zip)
+> Week 8 (July 6-10) | [Lab 15: Functions reading/modifying exercise](lab15.html) | [CS101\_Lab15.zip](CS101_Lab15.zip)
+> Week 8 (July 6-10) | [Lab 16: Grass Fire](lab16.html) | [CS101\_Lab16.zip](CS101_Lab16.zip)
 
 <!--
-> Mar 12th  | [Lab 12: Kitten Pictures](lab12.html) | [CS101\_Lab12.zip](CS101_Lab12.zip)
 > Mar 19th | [Lab 13: Right Triangle](lab13.html) | [CS101\_Lab13.zip](CS101_Lab13.zip)
 > Mar 24th  | [Lab 14: Simple Stats](lab14.html) | [CS101\_Lab14.zip](CS101_Lab14.zip)
 > Mar 26th | [Lab 15: Functions reading/modifying exercise](lab15.html) | [CS101\_Lab15.zip](CS101_Lab15.zip)
