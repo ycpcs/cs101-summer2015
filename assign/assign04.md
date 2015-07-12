@@ -3,7 +3,7 @@ layout: default
 title: "Assignment 4: Calendar Computations"
 ---
 
-**Due**: Thursday, March 26th by 11:59 PM
+**Due**: Monday, July 20th by 11:59 PM
 
 Getting Started
 ===============

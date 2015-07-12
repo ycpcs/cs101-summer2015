@@ -29,3 +29,4 @@ All information about the course will be posted here.
 * **June 16** - [Practice exams](practice/index.html) for Exam 1 are posted.
 * **June 24** - [Assignment 3](assign/assign03.html) is due Wednesday, Jun 24th by 11:59 PM.
 * **June 23 - EXAM I**
+* **July 20** - [Assignment 4](assign/assign04.html) is due Monday, July 20th by 11:59 PM.
