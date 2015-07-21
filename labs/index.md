@@ -29,11 +29,11 @@ and submitting the labs will negatively impact your course grade.
 > Week 8 (July 6-10) | [Lab 16: Grass Fire](lab16.html) | [CS101\_Lab16.zip](CS101_Lab16.zip)
 > Week 9 (July 13-17)| [Lab 17: Fancy Output](lab17.html) | [CS101\_Lab17.zip](CS101_Lab17.zip)
 > Week 9 (July 13-17)| [Lab 18: Boing!](lab18.html) | [CS101\_Lab18.zip](CS101_Lab18.zip)
-> Week 9 (July 13-17)| [Lab 20: Boing! revisited](lab20.html) | [CS101\_Lab20.zip](CS101_Lab19.zip)
+> Week 10 (July 20-24)| [Lab 20: Boing! revisited](lab20.html) | [CS101\_Lab20.zip](CS101_Lab19.zip)
+> Week 10 (July 20-24)| [Lab 21: Complex numbers](lab21.html) | [CS101\_Lab21.zip](CS101_Lab21.zip)
+> Week 10 (July 20-24)| [Lab 22: Boing! with pointers](lab22.html) | [CS101\_Lab22.zip](CS101_Lab22.zip)
 
 <!--
-> Apr 16th | [Lab 21: Complex numbers](lab21.html) | [CS101\_Lab21.zip](CS101_Lab21.zip)
-> Apr 21st | [Lab 22: Boing! with pointers](lab22.html) | [CS101\_Lab22.zip](CS101_Lab22.zip)
 > Apr 23rd | [Lab 23: Mini Golf](lab23.html) | [CS101\_Lab23.zip](CS101_Lab23.zip)
 > Apr 28th | [Lab 24: Boing! particle simulation](lab24.html) | [CS101\_Lab24.zip](CS101_Lab24.zip)
 > Apr 30th | [Lab 25: Balance Sheet](lab25.html) | [CS101\_Lab25.zip](CS101_Lab25.zip)
