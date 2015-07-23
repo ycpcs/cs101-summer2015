@@ -3,7 +3,10 @@ layout: default
 title: "Assignment 6: Snake"
 ---
 
-**Due**: Tuesday, May 5th by 11:59 PM
+**Due dates**
+
+-   Milestone 1 is due Thursday, July 30th by 11:59 PM
+-   Milestone 2 is due Wednesday, Aug 5th by 11:59 PM
 
 # Getting Started
 
@@ -48,12 +51,19 @@ You will use the terminal graphics functions: see [Lab 17](../labs/lab17.html), 
 
 This is a substantial assignment.  Here is a suggested approach to getting all of the features of the program working:
 
+Milestone 1 - render and move the snake
+---------------------------------------
+
 1. Define `struct Point` and `struct Snake` data types.
 2. Add fields to `struct Scene` to represent the snake.
 3. Add code to `scene_init` to initialize the snake.
 4. Add code to `scene_render` to draw the segments of the snake.  The snake should be visible, but will not move.
 5. Add code to `scene_update` to move the snake by adding a new head segment and removing the current tail segment. The snake will now move in one direction.
 6. Add code to `scene_update` to check for keypresses, changing the direction of the snake as appropriate when an arrow key is pressed.  Now you should be able to control the snake.
+
+Milestone 2 - add boundary detection and fruit
+----------------------------------------------
+
 7. Add code to `scene_update` to detect if the snake's head has moved out of bounds, and if so, set a "game over" flag in the `struct Scene`.  Also, add code to `scene_render` to print a game over message when the game over flag is set.
 8. Add code to `scene_update` to detect if the snake's head has collided with any of its body segments, and if so, set a game over flag in `struct Scene`.
 9. Add code to check whether the snake's head is in the same place as the piece of fruit, and if so, increase the player's score, increase the snake's number of segments by 1, and place a new piece of fruit in a random location.  (Make sure that the new fruit location isn't in the same place as any of the snake's segments.)
@@ -132,10 +142,15 @@ Full credit for the assignment is 125 points.
 
 Your grade will be determined according to the following criteria:
 
+Milestone 1 (50 points)
+
 * `struct Scene` has representation of snake: 10
 * snake is displayed: 10
 * snake moves: 15
 * player can control snake: 15
+
+Milestone 2 (75 points)
+
 * game ends when snake goes out of bounds: 10
 * game ends when snake's head collides with its body: 10
 * `struct Scene` has representation of fruit: 5
