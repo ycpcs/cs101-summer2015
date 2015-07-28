@@ -35,6 +35,7 @@ and submitting the labs will negatively impact your course grade.
 > Week 11 (July 28-31)| [Lab 23: Mini Golf](lab23.html) | [CS101\_Lab23.zip](CS101_Lab23.zip)
 > Week 11 (July 28-31)| [Lab 24: Boing! particle simulation](lab24.html) | [CS101\_Lab24.zip](CS101_Lab24.zip)
 
+
 <!--
 > Apr 23rd | [Lab 23: Mini Golf](lab23.html) | [CS101\_Lab23.zip](CS101_Lab23.zip)
 > Apr 28th | [Lab 24: Boing! particle simulation](lab24.html) | [CS101\_Lab24.zip](CS101_Lab24.zip)
