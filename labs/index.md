@@ -32,6 +32,8 @@ and submitting the labs will negatively impact your course grade.
 > Week 10 (July 20-24)| [Lab 20: Boing! revisited](lab20.html) | [CS101\_Lab20.zip](CS101_Lab19.zip)
 > Week 10 (July 20-24)| [Lab 21: Complex numbers](lab21.html) | [CS101\_Lab21.zip](CS101_Lab21.zip)
 > Week 10 (July 20-24)| [Lab 22: Boing! with pointers](lab22.html) | [CS101\_Lab22.zip](CS101_Lab22.zip)
+> Week 11 (July 28-31)| [Lab 23: Mini Golf](lab23.html) | [CS101\_Lab23.zip](CS101_Lab23.zip)
+> Week 11 (July 28-31)| [Lab 24: Boing! particle simulation](lab24.html) | [CS101\_Lab24.zip](CS101_Lab24.zip)
 
 <!--
 > Apr 23rd | [Lab 23: Mini Golf](lab23.html) | [CS101\_Lab23.zip](CS101_Lab23.zip)
