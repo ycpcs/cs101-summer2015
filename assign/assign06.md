@@ -5,8 +5,8 @@ title: "Assignment 6: Snake"
 
 **Due dates**
 
--   Milestone 1 is due Thursday, July 30th by 11:59 PM
--   Milestone 2 is due Wednesday, Aug 5th by 11:59 PM
+-   Milestone 1 is due Tuesday, Aug 4th by 11:59 PM
+-   Milestone 2 is due Monday, Aug 10th by 11:59 PM
 
 # Getting Started
 
